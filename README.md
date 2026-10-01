@@ -1,6 +1,6 @@
 # 🎓 Student Grade Calculator
 
-A simple and beginner-friendly **Student Grade Calculator** built with C++.
+A simple and beginner-friendly **Student Grade Calculator** built with Python.
 
 This project calculates a student's final grade based on their marks and provides the corresponding grade.
 
@@ -8,13 +8,13 @@ This project calculates a student's final grade based on their marks and provide
 
 * Calculate the student's total marks
 * Calculate the average
-* Determine the final letter grade
-* Simple and easy-to-use interface
-* Built using C++
+* Determine the final grade
+* Simple and easy-to-use program
+* Beginner-friendly Python project
 
 ## 🛠️ Technologies Used
 
-* **C++**
+* **Python**
 * **Git**
 * **GitHub**
 
@@ -26,20 +26,19 @@ Through this project, I practiced:
 * User input and output
 * Conditional statements
 * Mathematical calculations
-* Basic C++ programming
+* Basic Python programming
 * Using Git and GitHub to manage projects
 
 ## ▶️ How to Run
 
 1. Clone the repository.
-2. Open the project in a C++ IDE.
-3. Compile the source code.
-4. Run the program.
-5. Enter the required student marks.
+2. Make sure Python is installed.
+3. Run `main.py`.
+4. Enter the required student marks.
 
 ## 🎯 Project Goal
 
-The goal of this project is to practice fundamental C++ programming concepts by building a simple real-world application.
+The goal of this project is to practice fundamental Python programming concepts by building a simple real-world application.
 
 ## 👨‍💻 Author
 
@@ -49,4 +48,4 @@ Artificial Intelligence Student at Jadara University.
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!
+⭐ Thanks for checking out this project!
